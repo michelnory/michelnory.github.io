@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Michel Nory"
   avatar : "/assets/images/logo_620.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Studying pure mathematics while building software."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
