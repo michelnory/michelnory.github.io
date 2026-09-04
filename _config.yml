@@ -87,6 +87,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -122,8 +127,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
- 
