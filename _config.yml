@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Michel Nory"
   avatar : "/assets/images/logo_620.png"
-  bio    : "Studying pure mathematics while building software."
+  bio    : "Studying pure mathematics and building software along the way."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
