@@ -1,1 +1,3 @@
 To learn how to create my website using GitHub pages and Jekyll (Minimal Mistakes theme) I used the following tutorial [Build your professional webpage (MathQuantum) - YouTube](https://www.youtube.com/watch?v=Pof342wGt78&t=768s)
+
+- To eddit the website on my computer without the need to constantly commit changes run the following inside the website directory: `bundle exec jekyll serve --livereload`
