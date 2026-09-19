@@ -53,12 +53,14 @@ timer -m n
 # or
 timer --minutes n
 ```
-**Tip:** Set up a Raycast shortcut to run the timer directly, without opening a terminal window.
+<div class="notice--info" markdown="1">
+  **Tip:** Set up a Raycast shortcut to run the timer directly, without opening a terminal window.
+  <video controls width="100%" preload="metadata">
+    <source src="{{ '/assets/videos/terminaltimer_raycast.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-<video controls width="100%" preload="metadata">
-  <source src="{{ '/assets/videos/terminaltimer_raycast.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 ## Keyboard Shortcuts
 
 - **`r`**: Reset the timer back to its initial starting time.
@@ -70,3 +72,4 @@ timer --minutes n
 - **`Ctrl + Q`**: Quit the app
 
 **Tip:** To view al available commands search *keys* directly inside the command palette
+{: .notice--info}

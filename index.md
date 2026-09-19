@@ -9,3 +9,7 @@ I am currently studying Mathematics at Valencian International University (VIU).
 - Pure Mathematics
 - Data Science
 - Software Development
+
+If you want to know more about me head to the [About](https://michelnory.github.io/about/) 
+
+If you want to check a couple projects I've done head out to [Projects](https://michelnory.github.io/projects/)
